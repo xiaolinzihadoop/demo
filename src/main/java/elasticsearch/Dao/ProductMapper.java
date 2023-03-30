@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * @author WH
+ * @author WH xiaolinzi
  * @version 1.0
  * @date 2020/6/17 23:16
  * @Description 继承 ElasticsearchRepository 获取基本的es操作
