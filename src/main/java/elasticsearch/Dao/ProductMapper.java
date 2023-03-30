@@ -22,7 +22,7 @@ public interface ProductMapper extends ElasticsearchRepository<Product, Long> {
      * @return
      */
     // Streamable<Product> findByName(String name);
-    List<Product> findByName(String name);
+    List<Product> findByName(String  name);
 
     List<Product> findByDescribe(String describe);
 
