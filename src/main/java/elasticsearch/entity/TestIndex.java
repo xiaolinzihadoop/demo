@@ -9,7 +9,7 @@ import org.springframework.data.elasticsearch.annotations.FieldType;
 import java.math.BigDecimal;
 
 /**
- * @author WH
+ * @author WH xiaolinzi...
  * @version 1.0
  * @date 2020/6/21 16:18
  * @Description TODO
