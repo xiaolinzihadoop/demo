@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * @author WH xiaolinzi234324aaabb
  * @version 1.0 xiaolinzia
- * @date 2020/6/17 23:16
+ * @date 2020/6/17 23:16 woshixiaolinzi
  * @Description 继承 ElasticsearchRepository 获取基本的es操作
  */
 public interface ProductMapper extends ElasticsearchRepository<Product, Long> {
